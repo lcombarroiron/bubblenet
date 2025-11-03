@@ -1,5 +1,7 @@
-# Data
+# Large data
 data/
+models/
+yolo_trainings/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
